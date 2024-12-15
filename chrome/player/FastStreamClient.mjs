@@ -43,7 +43,7 @@ export class FastStreamClient extends EventEmitter {
     this.options = {
       autoPlay: true,
       maxSpeed: -1,
-      maxVideoSize: 900, //Size of fragments
+      maxVideoSize: 500, //Size of fragments
       introCutoff: 5 * 60,
       outroCutoff: 5 * 60,
       bufferAhead: 300,

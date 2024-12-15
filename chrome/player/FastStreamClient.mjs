@@ -48,7 +48,7 @@ export class FastStreamClient extends EventEmitter {
       outroCutoff: 5 * 60,
       bufferAhead: 300,
       bufferBehind: 20,
-      freeFragments: true,
+      freeFragments: false,
       downloadAll: false,
       freeUnusedChannels: true,
       storeProgress: false,

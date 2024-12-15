@@ -41,7 +41,7 @@ export class FastStreamClient extends EventEmitter {
     this.version = EnvUtils.getVersion();
 
     this.options = {
-      autoPlay: false,
+      autoPlay: true,
       maxSpeed: -1,
       maxVideoSize: 5000, //Size of fragments
       introCutoff: 5 * 60,

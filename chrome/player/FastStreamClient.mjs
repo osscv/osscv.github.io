@@ -48,8 +48,8 @@ export class FastStreamClient extends EventEmitter {
       outroCutoff: 5 * 60,
       bufferAhead: 300,
       bufferBehind: 20,
-      freeFragments: false,
-      downloadAll: true,
+      freeFragments: true,
+      downloadAll: false,
       freeUnusedChannels: true,
       storeProgress: false,
       disableLoadProgress: false,
@@ -79,7 +79,7 @@ export class FastStreamClient extends EventEmitter {
       videoFlip: 0,
       videoRotate: 0,
       disableVisualFilters: false,
-      maximumDownloaders: 6,
+      maximumDownloaders: 1,
     };
     this.state = {
       playing: false,

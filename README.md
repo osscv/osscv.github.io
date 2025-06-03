@@ -109,3 +109,9 @@ Please see the [wiki](https://github.com/Andrews54757/FastStream/wiki/Technical-
 ## Disclaimer
 
 While it may be possible for FastStream to save videos from any website as long as there is no DRM, that doesn't mean you have the legal right to do so if you don't own the content. Please be mindful of how you use this tool. FastStream should not be used to infringe copyright.
+
+
+
+<a href="https://www.dkly.top/blog/category/sustainable-future-fusion-sff-apu" title="APU Sustainable Future Fusion">APU Sustainable Future Fusion</a>
+<a href="https://www.dkly.top/" title="Khoo Lay Yang" class="visually-hidden">Khoo Lay Yang</a>
+
